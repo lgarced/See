@@ -4,6 +4,7 @@ import Header from '@/components/Header'
 import Providers from "./Providers";
 import SearchBox from '@/components/SearchBar'
 import Navbar from '@/components/NavBar'
+import "./styles/globals.css";
 
 const inter = Inter({ subsets: ['latin'] })
 
