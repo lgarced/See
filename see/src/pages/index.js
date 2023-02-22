@@ -18,8 +18,8 @@ export default function Home() {
         <div className={styles.description}>
           <p>
             <code className={styles.code}>See is coming</code>
-            Check back soon!
-          </p>
+            <a>Check back soon!</a>
+            </p>
           <div>
         </div>
         </div>
