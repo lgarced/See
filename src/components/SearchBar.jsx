@@ -25,7 +25,7 @@ export default function SearchBox() {
       <button
         disabled={!search}
         type="submit"
-        className="text-amber-600 disabled:text-gray-400"
+        className="text-blue-500 disabled:text-gray-400"
       >
         Search
       </button>
